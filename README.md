@@ -1,12 +1,4 @@
-# jangra2008-06-tech
-MY PERSONAL GITHUB PROFILE AND AI PROJECTS.
-Bilkul Naina ❤️ **simple nahi, proper professional GitHub profile README** banate hain — student + AI learner + developer profile ke look mein.
 
-Main isme **About Me, Tech Skills, Projects, Currently Learning, Goals, GitHub stats-style sections aur contact section** rakhunga, lekin unnecessary cheezein nahi bharunga.
-
-### ✨ Profile ka look kuch aisa hoga:
-
-```text
 Hi, I'm Naina Devi 👋
 
 BCA Student | AI & Generative AI Learner | Developer
