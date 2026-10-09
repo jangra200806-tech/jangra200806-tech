@@ -39,6 +39,4 @@ Digital Marketing
 
 🎯 Goal
 Learn → Build → Improve → Repeat 🚀
-```
 
-**Main ise proper Markdown formatting aur GitHub-friendly design ke saath file mein bana sakta hoon.**
