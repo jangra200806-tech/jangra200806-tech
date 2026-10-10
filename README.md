@@ -8,7 +8,7 @@ I am a BCA student from Kaithal, Haryana, passionate about Artificial Intelligen
 
 ---
 
-## About Me
+## About 
 
 - Pursuing Bachelor of Computer Applications (BCA) at MDU University
 - Completed Senior Secondary from D.A.V. Police Public School, Kaithal
