@@ -1,4 +1,4 @@
-# Hi, I'm Naina Devi
+# Hi, I'm Naina 
 
 **BCA Student | AI and Generative AI Learner | Developer**
 
