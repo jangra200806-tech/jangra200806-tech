@@ -44,7 +44,6 @@ Creative Thinking, Problem Solving, Communication, Self-Learning, Teamwork, Time
 |---|---|
 | **Quizzy Class** | An interactive cartoon-style 2D quiz game built as part of my learning journey. [Play it here](https://crosswordmaster.ai.studio) |
 | **AI School Chatbot** | An AI-powered chatbot for DAV Public School, Kaithal that answers questions about admissions, timings, facilities and events instantly. |
-| **School Website** | A multi-page website for DAV Police Public School, Kaithal, built with React and Node.js. |
 | **AI Creative Projects** | Experiments in AI-generated video, art and storytelling. |
 
 ---
