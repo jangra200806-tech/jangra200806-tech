@@ -11,7 +11,7 @@ I am a BCA student from Kaithal, Haryana, passionate about Artificial Intelligen
 ## About Me
 
 - Pursuing Bachelor of Computer Applications (BCA) at MDU University
-- Completed Senior Secondary (Humanities) from D.A.V. Police Public School, Kaithal
+- Completed Senior Secondary from D.A.V. Police Public School, Kaithal
 - Training in Digital Marketing with AI at Zed-King Institute, Kaithal
 - Explored 50+ AI tools including ChatGPT, Gemini, Claude, Replit, Render, Vercel and FocalFlow
 - Interested in creative video creation, storytelling, art and painting, and social media content
